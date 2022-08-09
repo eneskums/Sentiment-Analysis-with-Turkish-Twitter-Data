@@ -1,5 +1,7 @@
 # Türkçe Twitter Verileri ile Duygu Analizi - Sentiment Analysis with Turkish Twitter Data
 
+Makale için https://dergipark.org.tr/en/download/article-file/1527232 linkini ziyaret edebilirsiniz.
+
 tweetsFiletoCsv.py dosyasındaki veri setine ulaşmak için Dr. Mustafa Sert ile iletişime geçebilirsiniz. link: http://www.baskent.edu.tr/~msert/research/datasets/SentimentDatasetTR.html
 
 getTweets.py -> Twitter API kullanarak belirli kriterler ile tweet çekme.
@@ -13,6 +15,8 @@ tweetsFiletoCsv.py -> Veri setinin csv dosyasına aktarılması.
 SMDA.py -> Verinin ön işlemesinin yapılması ve word2vec vektör dönüşümü yapılarak modellerde eğitilmesi.
 
 SMSA.py -> Verinin ön işlemesinin yapılması ve tf/idf vektör dönüşümü yapılarak modellerde eğitilmesi.
+
+For the article, you can visit the link https://dergipark.org.tr/en/download/article-file/1527232.
 
 To access the dataset in the tweetsFiletoCsv.py file, Dr. You can contact Mustafa Sert. link: http://www.baskent.edu.tr/~msert/research/datasets/SentimentDatasetTR.html
 
